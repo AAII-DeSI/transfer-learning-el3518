@@ -23,6 +23,10 @@ Run "offh.py" for dataset OfficeHome, "off31.py" for dataset Office-31.
 
 ## Results
 
+| Task  | D | W  | A | Avg  | 
+| ------------- | ------------- | ------------- | | ------------- | ------------- |
+| MSCLDA  | 99.8  | 98.8  | 73.7  | 90.8 |
+
 Please consider cite if you find this helpful.
 
 Citation
