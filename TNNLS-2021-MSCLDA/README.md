@@ -9,7 +9,7 @@ Code for the TNNLS publication. The full paper can be found [here](https://doi.o
 - An alignment structure to learn the similarities between source and target domains by measuring domain-level and class-level discrepancies simultaneously, which undermines the misalignment of boundary samples. 
 
 ## Overview
-!Framework](https://github.com/[AAII-DeSI]/[transfer-learning-el3518/[TNNLS-2021-MSCLDA]]/[image]/flowchart.jpg?raw=true)
+![Framework](https://github.com/[AAII-DeSI]/[transfer-learning-el3518/[TNNLS-2021-MSCLDA]]/[image]/flowchart.jpg?raw=true)
 
 
 Run "offh.py" for dataset OfficeHome, "off31.py" for dataset Office-31. You can find the datasets [here](https://github.com/jindongwang/transferlearning/tree/master/data).
