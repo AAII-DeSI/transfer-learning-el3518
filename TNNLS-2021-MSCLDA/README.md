@@ -11,8 +11,17 @@ Code for the TNNLS publication. The full paper can be found [here](https://doi.o
 ## Overview
 ![Framework](https://github.com/AAII-DeSI/transfer-learning-el3518/blob/main/TNNLS-2021-MSCLDA/image/flowchart.jpg)
 
+## Setup
+Ensure that you have Python 3.7.4 and PyTorch 1.1.0
 
-Run "offh.py" for dataset OfficeHome, "off31.py" for dataset Office-31. You can find the datasets [here](https://github.com/jindongwang/transferlearning/tree/master/data).
+## Dataset
+You can find the datasets [here](https://github.com/jindongwang/transferlearning/tree/master/data).
+
+## Usage
+
+Run "offh.py" for dataset OfficeHome, "off31.py" for dataset Office-31. 
+
+## Results
 
 Please consider cite if you find this helpful.
 
