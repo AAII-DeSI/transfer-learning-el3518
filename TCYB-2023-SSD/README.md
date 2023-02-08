@@ -10,8 +10,8 @@ Code for the TCYB publication. The full paper can be found [here](https://doi.or
 - A new combination rule that not only estimates the combination weights but also identifies the dominant source domain
 
 ## Overview
-![Framework-Source](https://github.com/el3518/SSD/blob/main/img/flowchart_s.jpg)
-![Framework-Adaptation](https://github.com/el3518/SSD/blob/main/img/flowchart_t.jpg)
+![Framework-Source](https://github.com/AAII-DeSI/transfer-learning-el3518/blob/main/TCYB-2023-SSD/image/flowchart_s.jpg)
+![Framework-Adaptation](https://github.com/AAII-DeSI/transfer-learning-el3518/blob/main/TCYB-2023-SSD/image/flowchart_t.jpg)
 
 ## Setup
 Ensure that you have Python 3.7.4 and PyTorch 1.1.0
